@@ -36,7 +36,7 @@ export default function Calendar() {
   return (
     <div className="container page">
       <div style={{ marginBottom: '1.75rem' }}>
-        <h1>50-Day SAT Calendar</html>
+        <h1>50-Day SAT Calendar</h1>
         <p>Each day contains your assigned sections. Click any available day to start.</p>
       </div>
 
